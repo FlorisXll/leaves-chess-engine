@@ -1,1 +1,3 @@
-# leaves-chess-engine
+# Leaves
+
+A chess engine in progress.
